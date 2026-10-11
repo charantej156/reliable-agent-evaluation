@@ -22,4 +22,4 @@ Can a validation method detect incorrect tool calls made by AI agents while avoi
 Build a small benchmark using synthetic tool-call examples, implement a basic validation method, compare it with a stronger verifier, and analyze the results using appropriate metrics.
 
 ## Long-term goal
-Develop strong AI research skills, contribute to reliable AI systems, and prepare for a fully funded PhD in Computer Science or Artificial Intelligence in the United States.
+Develop strong AI research skills, contribute to reliable AI systems, and prepare for a fully funded PhD in Computer Science or Artificial Intelligence
